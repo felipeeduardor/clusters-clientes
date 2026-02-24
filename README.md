@@ -1,6 +1,6 @@
 # Clusterização de Clientes — RFM + KMeans
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/deploy?repository=felipeeduardor/clusters-clientes&branch=master&mainModule=app.py)
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://clusters-clientes-l2b8p59cqoztywjvry6qtk.streamlit.app/)
 
 App interativo para segmentação de clientes usando análise RFM e algoritmo KMeans.
 

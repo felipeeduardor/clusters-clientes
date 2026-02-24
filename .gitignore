@@ -1,0 +1,14 @@
+# Dados de clientes — não enviar para o GitHub
+*.csv
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+*.ipynb
+
+# Python
+__pycache__/
+*.py[cod]
+.env
+
+# Editor
+.qodo/
